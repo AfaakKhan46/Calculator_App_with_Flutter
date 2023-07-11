@@ -1,6 +1,6 @@
 # calculator_app
 
-A new Flutter project.
+This is a simple calculator app developed with flutter and get API having functionalities like Athematic operations and give a exact value.
 
 ## Getting Started
 
